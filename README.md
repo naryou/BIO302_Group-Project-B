@@ -9,9 +9,9 @@ To refresh your knowledge on Hi-C data, please have a look at LEC2, NGS data gen
 
 The project will be done in four steps:
 - genome profiling using GenomeScope2
-- assembly using ABySS
+- assembly using ABySS (for short reads) and Shasta (for long reads)
 - scaffolding using YaHS
-- annotation using Repeat Modeler (and Maker??)
+- annotation using Repeat Modeler (and Maker if we have time)
 
-You find the assembly tutorial [here](), scaffolding tutorial [here]() and annotation is [here]().
+You find the assembly, scaffolding and annotation in this repository. Just navigate to different directories.
 
