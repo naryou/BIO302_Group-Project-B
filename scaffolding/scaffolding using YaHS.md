@@ -31,14 +31,14 @@ Set the following parameters:
 
 Rename the output as BAM Hi-C reads
 
-Now from Tools panel choos [**bedtools BAM to BED** converter](https://usegalaxy.eu/roottool_id=toolshed.g2.bx.psu.edu/repos/iuc/bedtools/bedtools_bamtobed/2.30.0+galaxy2)
+Now from Tools panel choos [**bedtools BAM to BED** converter](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/iuc/bedtools/bedtools_bamtobed/2.30.0+galaxy2)
 
 Set the following parameters:
 - “Convert the following BAM file to BED”: BAM Hi-C reads
 - “What type of BED output would you like”: Create a full, 12-column "blocked" BED file
 Rename the output as BED unsorted
 
-Finally from Tools panel choose [**sort** data in ascending or descending order](https://usegalaxy.eu/roottool_id=toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_sort_header_tool/1.1.1) with following parameters:
+Finally from Tools panel choose [**sort** data in ascending or descending order](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_sort_header_tool/1.1.1) with following parameters:
 
 - “Sort Dataset”: BED unsorted
 - “on column”: Column: 4
