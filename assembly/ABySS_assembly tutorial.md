@@ -5,3 +5,6 @@
 
 here is the [link](https://genome.cshlp.org/content/27/5/768.full.pdf+html) to the ABySS paper.
 
+EXPLAIN on Galaxy
+
+Then do quast
