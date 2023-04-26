@@ -7,8 +7,33 @@ While preparing the Hi-C libray, we digest and ligate DNA sequences which result
 # Pre-processing of Hi-C data using BWA-mem
 Despite Hi-C generating paired-end reads, we need to map each read separately. This is because most aligners assume that the distance between paired-end reads fit a known distribution, but in Hi-C data the insert size of the ligation product can vary between one base pair to hundreds of megabases
 
-From Tools panel, choose [Map with BWA-MEM2](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/iuc/bwa_mem2/bwa_mem2/2.2.1+galaxy0)
+## step 1: mapping the F and R reads to the contigs 
+From Tools panel, choose [**Map with BWA-MEM2**](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/iuc/bwa_mem2/bwa_mem2/2.2.1+galaxy0)
+
 Set the follwoing parameters:
+- “Will you select a reference genome from your history or use a built-in index?”: Use a genome from history and build index
+- “Single or Paired-end reads”: Single
+- “Select fastq dataset”: Hi-C_dataset_F
+- Set read groups information?”: Do not set
+- Select analysis mode”: 1.Simple Illumina mode
+- “BAM sorting mode”: Sort by read names (i.e., the QNAME field)
+  - Rename the output as BAM forward
+
+Now repeat the mapping for *reverse* reads (Hi-C_dataset_R)
+
+## step 2: filter, merge and sort mapped reads
+
+From the Tools panel choose [**Filter and merge** chimeric reads from Arima Genomics](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.psu.edu/repos/iuc/bellerophon/bellerophon/1.0+galaxy0)
+
+Set the following parameters:
+- “First set of reads”: BAM forward
+- “Second set of reads”: BAM reverse
+
+Rename the output as BAM Hi-C reads
+
+Now from Tools panel choos [**bedtools BAM to BED** converter](https://usegalaxy.eu/roottool_id=toolshed.g2.bx.psu.edu/repos/iuc/bedtools/bedtools_bamtobed/2.30.0+galaxy2)
+
+Set the following parameters:
 
 
 
