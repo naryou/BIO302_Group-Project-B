@@ -10,7 +10,7 @@ To refresh your knowledge on Hi-C data, please have a look at LEC2, NGS data gen
 The project will be done in three steps:
 - assembly using ABySS
 - scaffolding using YaHS
-- annotation using Repeat Modeler and Maker
+- annotation using Repeat Modeler (and Maker??)
 
 You find the assembly tutorial [here](), scaffolding tutorial [here]() and annotation is [here]().
 
