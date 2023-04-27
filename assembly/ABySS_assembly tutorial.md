@@ -10,8 +10,8 @@ and set the following parameters:
 
 - Insert Paired-end library
 - two separate datasets: 
-- Paired-end reads 1: *.R1.fastq.gz
-- Paired-end reads 2: *.R1.fastq.gz*
+- Paired-end reads 1: x.R1.fastq.gz
+- Paired-end reads 2: x.R2.fastq.gz
 - K-mer length: 41
 
 and `Run Tool`
