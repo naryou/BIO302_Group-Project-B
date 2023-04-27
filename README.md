@@ -10,7 +10,7 @@
 To refresh your knowledge on Hi-C data, please have a look at LEC2, NGS data generation and handling.
 - Reference assembly of P. grandis generated using both long reads (Nanopore) and short reads (Illumina), which will be used for comparison with your de novo assembly
 
-The project will be done in four steps:
+## The project will be done in four steps:
 - genome profiling using GenomeScope2
 - assembly using ABySS (for short reads) and Shasta (for long reads)
 - scaffolding using YaHS
