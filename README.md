@@ -1,5 +1,7 @@
 # Tutorial for BIO302_Group-Project-B
 
+*Students: Jeanine & Jan*
+
 ## On this [Galaxy history](), you find the following data
 
 - Whole  Genome Shotgun Sequencing of Primula grandis. This is Illumina short reads, paired-end (PE), 150bp.
