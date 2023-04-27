@@ -4,9 +4,9 @@
 
 
 
-![Primula grandis][Pboveana_UZH_greenhouse_NY]
+![Primula grandis][Pgrandis_NY]
 
-[Pboveana_UZH_greenhouse_NY]: ./Pboveana_UZH_greenhouse_NY.jpg
+[Pgrandis_NY]: ./Pgrandis.png
 
 
 ## On this [Galaxy history](), you find the following data
