@@ -2,7 +2,7 @@
 
 *Students: Jeanine & Jan*
 
-## Study system:
+## Study system
 *Primula grandis* (Primulaceae)
 Endemic to Caucasus, Egypt; Homostylous (only one flower morph, due to loss of heterostyly)
 
