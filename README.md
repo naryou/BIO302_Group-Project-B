@@ -2,7 +2,13 @@
 
 *Students: Jeanine & Jan*
 
+## Study system:
+*Primula boveana* (Primulaceae)
+Endemic to Caucasus, Egypt; Homostylous (only one flower morph, due to loss of heterostyly)
 
+- Genome size: 900Mb (Flow Cytometry and K-mer count)
+- Ploidy: tetraploid, 2n=44
+- Data generated: Nanopore (35x total), WGS shotgun, Hi-C (Arima)
 
 ![Primula grandis][Pgrandis_NY]
 
