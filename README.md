@@ -2,6 +2,13 @@
 
 *Students: Jeanine & Jan*
 
+
+
+![Primula grandis][Pboveana_UZH_greenhouse_NY]
+
+[Pboveana_UZH_greenhouse_NY]: ./Pboveana_UZH_greenhouse_NY.jpg
+
+
 ## On this [Galaxy history](), you find the following data
 
 - Whole  Genome Shotgun Sequencing of Primula grandis. This is Illumina short reads, paired-end (PE), 150bp.
