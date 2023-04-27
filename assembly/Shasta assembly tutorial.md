@@ -14,5 +14,7 @@ From Tools panel choose [**Shasta** De novo assembly of long read sequencing dat
 
 and Run Tool.
 
+*Shasta run may take ca. 2.5h to finish*
+
 Inspect the outputs. Run quality assessment (e.g. Quast) and visualize the genome graph is Bandage.
 
