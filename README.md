@@ -3,7 +3,7 @@
 *Students: Jeanine & Jan*
 
 ## Study system:
-*Primula boveana* (Primulaceae)
+*Primula grandis* (Primulaceae)
 Endemic to Caucasus, Egypt; Homostylous (only one flower morph, due to loss of heterostyly)
 
 - Genome size: 900Mb (Flow Cytometry and K-mer count)
