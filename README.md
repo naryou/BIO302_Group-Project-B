@@ -2,6 +2,14 @@
 
 *Students: Jeanine & Jan*
 
+## General questions for your project
+*What does it take from sequencing to a reference genome?* 
+- address different sequencing techniques, the value and weekpoints of them 
+- different assemblers (why so many of them??)
+- discuss the quality of a reference genome assembly (what are the gold standards and what is 'acceptable' to address genomics-related questions)
+
+*While focusing on these type of questions, review the avaialbe methods/software, explain how they work and results that you get from them* 
+
 ## Study system
 *Primula grandis* (Primulaceae)
 Endemic to Caucasus; Homostylous (only one flower morph, due to loss of heterostyly)
