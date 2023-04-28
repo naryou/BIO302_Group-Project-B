@@ -10,6 +10,8 @@
 
 *While focusing on these type of questions, review the avaialbe methods/software, explain how they work and results that you get from them* 
 
+*The projects are designed to cover the various topics of the lectures. With LAB projects, the goal is that students learn each topic in more depth from the students who are working on the specific project in that topic*
+
 ## Study system
 *Primula grandis* (Primulaceae)
 Endemic to Caucasus; Homostylous (only one flower morph, due to loss of heterostyly)
